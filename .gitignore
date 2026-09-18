@@ -2,13 +2,3 @@
 /build/
 /build-arm64-musl/
 __pycache__/
-/tools/rtt_bench/rtt_bench
-/tools/rtt_bench/rtt_bench-arm64
-/tools/rtt_bench_native/rtt_bench_native
-/tools/rtt_bench_native/rtt_bench_native-arm64
-/tools/rp2040_flash/rp2040_flash
-/tools/rp2040_flash/rp2040_flash-arm64
-/tools/rp2040_flash_dap/rp2040_flash_dap
-/tools/rp2040_flash_dap/rp2040_flash_dap-arm64
-/tools/rp2040_flash_go/rp2040_flash_go
-/tools/rp2040_flash_go/rp2040_flash_go-arm64
