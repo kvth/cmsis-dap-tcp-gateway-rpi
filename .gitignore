@@ -1,4 +1,3 @@
 /cmsis_dap_tcp
 /build/
-/build-arm64-musl/
 __pycache__/

@@ -43,7 +43,7 @@ wire format is unchanged.
 ## Building
 
 Preferred: `./build_static_arm64.sh` cross-builds a fully static arm64
-binary from any host, in an Alpine (musl) Docker container under QEMU
+binary from any host, in an Alpine (musl) podman container under QEMU
 emulation -- no aarch64 cross-toolchain needed locally, and the result
 drops onto a Pi with no shared libraries to matching versions of.
 
